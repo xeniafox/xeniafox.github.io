@@ -3,7 +3,7 @@ title: Chave pública PGP
 description: minha chave pública PGP para discussões sérias via email
 ---
 
-```
+```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZXvS6BYJKwYBBAHaRw8BAQdAgu13/1tNaqhPk6h1TKio/mrj2WJb3/ricUEp

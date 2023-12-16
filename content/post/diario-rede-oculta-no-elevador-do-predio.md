@@ -2,6 +2,7 @@
 title = 'Uma rede oculta nos elevadores? --- Diário[0]'
 date = 2023-12-16T18:56:40-03:00
 draft = false
+categories = ["diário"]
 +++
 
 Unix timestamp de quando comecei a escrever (Início): `1702764100`.

@@ -9,9 +9,15 @@ description: "Os escritos pessoais de uma cientista da computação amadora."
 
 ## eii
 
-boas vindas ao meu pequeno pedacinho da web, espero que goste :>
+sou Lavínia (AKA "Xenia"), boas vindas ao meu pequeno pedacinho da web, espero que goste :>
 
-### :purple_heart: :earth_africa: :purple_heart:
+você pode me encontrar no [Twitter](https://twitter.com/yorukitsune3) e no Discord (`nt.system`).
+
+para discussões mais sérias, meu email pessoal é [`xenia@kernel32.xyz`](mailto:xenia@kernel32.xyz),
+meu email profissional é [`lavinia@kernel32.xyz`](mailto:lavinia@kernel32.xyz), e [aqui está
+minha chave pública PGP](/pgp).
+
+### :purple_heart: :purple_heart:
 
 ---
 

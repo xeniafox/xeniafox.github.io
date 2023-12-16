@@ -1,0 +1,20 @@
+---
+title: Chave pública PGP
+description: minha chave pública PGP para discussões sérias via email
+---
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZXvS6BYJKwYBBAHaRw8BAQdAgu13/1tNaqhPk6h1TKio/mrj2WJb3/ricUEp
+Q595n1q0MExhdsOtbmlhICJYZW5pYSIgUm9kcmlndcOqcyA8eGVuaWFAa2VybmVs
+MzIueHl6PoiTBBMWCgA7FiEEdWqEdGceMmBa0KAPwqi+cpYF11YFAmV70ugCGwMF
+CwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQwqi+cpYF11aCSwD9HxJpg8mC
+oDE9Tm1CpcD9bRTafLN8dM2acC8Y9rmJmGMBAN38ExhRSsDn12z9DlEPI+cTkst2
+5IQIVrO0g5kMs+AFuDgEZXvS6BIKKwYBBAGXVQEFAQEHQOGuP9KuLSKcLwUqM9M2
+/RZzSOj75Yc0lAvbdVbveEsMAwEIB4h4BBgWCgAgFiEEdWqEdGceMmBa0KAPwqi+
+cpYF11YFAmV70ugCGwwACgkQwqi+cpYF11a68gEAkSrbBPC2WzO0rw7LwG6imUZN
+EmOIM3IBahbTk3GyuQkBAKgSLUz/ZWsOmIhZZPkEzb07Gbczb5qcxwLF0KJl6c4P
+=Mhgu
+-----END PGP PUBLIC KEY BLOCK-----
+```

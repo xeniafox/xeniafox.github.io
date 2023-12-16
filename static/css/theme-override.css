@@ -1,1 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
 footer { font-size: 90%; }
+
+code {
+  font-family: 'Fira Code', monospace;
+}

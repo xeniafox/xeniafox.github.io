@@ -28,7 +28,7 @@ post = "/post/:year/:month/:day/:slug/"
 
 [[menu.main]]
 name = "Categorias"
-url = "/categorias/"
+url = "/categories/"
 weight = 1
 [[menu.main]]
 name = "Tags"

@@ -9,7 +9,8 @@ description: "Os escritos pessoais de uma cientista da computação amadora."
 
 ## eii
 
-sou Lavínia (AKA "Xenia"), boas vindas ao meu pequeno pedacinho da web, espero que goste :>
+sou Lavínia (AKA "Xenia"), desenvolvedora backend, hacker, e entusiasta de ciência da computação
+no geral. boas vindas ao meu pequeno pedacinho da web, espero que goste. :>
 
 você pode me encontrar no [Twitter](https://twitter.com/yorukitsune3) e no Discord (`nt.system`).
 
